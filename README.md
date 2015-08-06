@@ -8,5 +8,7 @@ WordPres Plugin - rhino slider - options panel
 3. activate home slider.
 4. That's it :)
 
+add `[show_home_slider]` short code to your prefer post/page to show the slider.
+
 ### Change log
 1.0 initial release
